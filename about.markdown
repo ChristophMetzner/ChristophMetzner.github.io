@@ -10,13 +10,13 @@ I am currently a postdoc at the [Neural Information Processing Group](https://ww
 ## Research
 My research aims to use computational models at mutliple scales (from single cells to large brain structures) to understand sensory processing and cognitive functions. Furthermore, also to use these models to uncover biological mechanisms underlying psychiatric disorders, such as schizophrenia, to identify novel, more effective treatments.
 
-# Auditory Steady-State Response Deficits
+### Auditory Steady-State Response Deficits
 
-# Stimulus-specific Adaptation/Mismatch Negativity
+### Stimulus-specific Adaptation/Mismatch Negativity
 
-# Structural and Synaptic Plasticity in Balanced Networks
+### Structural and Synaptic Plasticity in Balanced Networks
 
-# Termination of Absence Seizures by Cerebellar Input to Thalamocortical Networks
+### Termination of Absence Seizures by Cerebellar Input to Thalamocortical Networks
 
 For current open internship/lab rotation/thesis projects see [here]()
 
