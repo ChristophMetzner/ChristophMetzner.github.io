@@ -9,6 +9,8 @@ permalink: /research/
 
 ### Stimulus-specific Adaptation/Mismatch Negativity
 
+### Synchronization of Excitatory-Inhibitory Networks
+
 ### Structural and Synaptic Plasticity in Balanced Networks
 
 ### Termination of Absence Seizures by Cerebellar Input to Thalamocortical Networks
