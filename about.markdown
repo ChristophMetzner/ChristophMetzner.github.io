@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-![](https://github.com/ChristophMetzner/ChristophMetzner.github.io/blob/gh-pages/profile.png?raw=true)
-
 <img align="left" src="profile.png">
 
 I am currently a postdoc at the [Neural Information Processing Group](https://www.ni.tu-berlin.de/menue/neural_information_processing_group/) led by Prof. Obermayer at the Technische Universität Berlin, Germany. Furthermore, I am a visiting lecturer at the University of Hertfordshire, United Kingdom, and at the University of Applied Sciences Berlin, Germany. Before that I was a postdoc in the Biocomputation Group led by Prof. Steuber at the University of Hertfordshire after having received my PhD at the University of Lübeck working with Prof. Schweikard and Dr. Zurowski.
