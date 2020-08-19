@@ -10,6 +10,8 @@ I am currently a postdoc at the [Neural Information Processing Group](https://ww
 ## Research
 My research aims to use computational models at mutliple scales (from single cells to large brain structures) to understand sensory processing and cognitive functions. Furthermore, also to use these models to uncover biological mechanisms underlying psychiatric disorders, such as schizophrenia, to identify novel, more effective treatments.
 
+For more information, see [here]().
+
 ### Auditory Steady-State Response Deficits
 
 ### Stimulus-specific Adaptation/Mismatch Negativity
