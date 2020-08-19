@@ -12,14 +12,6 @@ My research aims to use computational models at mutliple scales (from single cel
 
 For more information, see [here]().
 
-### Auditory Steady-State Response Deficits
-
-### Stimulus-specific Adaptation/Mismatch Negativity
-
-### Structural and Synaptic Plasticity in Balanced Networks
-
-### Termination of Absence Seizures by Cerebellar Input to Thalamocortical Networks
-
 For current open internship/lab rotation/thesis projects see [here]()
 
 ## Publications
