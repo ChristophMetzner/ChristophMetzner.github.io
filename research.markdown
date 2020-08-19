@@ -10,9 +10,11 @@ Since synchronized neuronal activity is thought to underlie efficient communicat
 
 ### Stimulus-specific Adaptation/Mismatch Negativity
 
-### Synchronization of Excitatory-Inhibitory Networks
+### Synchronization of E-I Networks
 
-### Structural and Synaptic Plasticity in Balanced Networks
+### Large-scale Network Deficits in Schizophrenia
+
+### Structural and Synaptic Plasticity in Balanced E-I Networks
 
 ### Termination of Absence Seizures by Cerebellar Input to Thalamocortical Networks
 
