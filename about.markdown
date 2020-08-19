@@ -12,7 +12,7 @@ I am trained both in mathematics and computer science and have a broad interest 
 ## Research
 My research aims to use computational models at mutliple scales (from single cells to large brain structures) to understand sensory processing and cognitive functions. Furthermore, also to use these models to uncover biological mechanisms underlying psychiatric disorders, such as schizophrenia, to identify novel, more effective treatments.
 
-For more information, see [Research]().
+For more information, see [here]().
 
 For current open internship/lab rotation/thesis projects see [here]()
 
