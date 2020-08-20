@@ -11,6 +11,8 @@ Since synchronized neuronal activity is thought to underlie efficient communicat
 ### Stimulus-specific Adaptation/Mismatch Negativity
 
 ### Synchronization of E-I Networks
+Gamma rhythms play a major role in different processes in the brain, such as attention, working memory and sensory processing. The communication-through-coherence (CTC) hypothesis suggests that synchronization in the gamma band is one of the key mechanisms in neuronal communication and counterintuitively noise can have beneficial effects on the communication. Recently, Meng et al. () showed that synchronization *across* interacting inhibitory networks (producing gamma rhythm through an ING mechanism) increases while synchronization *within* these networks decreases when neurons are subject to independent noise. However, experimental and modeling studies point towards an important role of the PING mechanism in the cortex and the established view is that cortico-cortical connections are predominately excitatory.
+In his master thesis, Lucas Rebscher, reproduced the findings of Meng et al. in ING networks of adaptive exponential integrate-and-fire (AdEx) neurons and extended their work by showing that the same synchronization mechanism can be observed in interacting gamma rhythms produced by a PING mechanism. 
 
 ### Large-scale Network Deficits in Schizophrenia
 
