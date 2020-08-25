@@ -22,4 +22,4 @@ In his master thesis, my student Lucas Rebscher, reproduced the findings in ING 
 
 ### Termination of Absence Seizures by Cerebellar Input to Thalamocortical Networks
 
-For current open internship/lab rotation/thesis projects see [here]()
+For current open internship/lab rotation/thesis projects see [here](https://christophmetzner.github.io/projects/)
