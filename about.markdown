@@ -15,7 +15,7 @@ My research aims to use computational models at mutliple scales (from single cel
 
 For more information, see [here](https://christophmetzner.github.io/research/).
 
-For current open internship/lab rotation/thesis projects see [here]()
+For current open internship/lab rotation/thesis projects see [here](https://christophmetzner.github.io/projects/)
 
 ## Publications
 see my Google Scholar [profile](https://scholar.google.de/citations?user=6COgDzwAAAAJ&hl=de)
